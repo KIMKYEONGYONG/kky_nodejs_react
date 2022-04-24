@@ -1,0 +1,24 @@
+{
+  "name": "kky_nodejs_react",
+  "version": "1.0.0",
+  "description": "NodeJS React",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KIMKYEONGYONG/kky_nodejs_react.git"
+  },
+  "author": "kky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KIMKYEONGYONG/kky_nodejs_react/issues"
+  },
+  "homepage": "https://github.com/KIMKYEONGYONG/kky_nodejs_react#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1"
+  }
+}
